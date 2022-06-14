@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-image: radial-gradient( #f9f9f9, blue, #c3c3c3, blueviolet);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
